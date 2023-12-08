@@ -57,6 +57,10 @@ const SEARCHES = [
   'why do i like caroline',
   'how to get rid of musty dusty crusties'
   'how to be a hacker'
+  'local honeybun store'
+  'honeybuns near me'
+  'mcdonalds near me'
+  'how to steal from mcdonalds'
 ]
 
 const VIDEOS = [
